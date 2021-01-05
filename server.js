@@ -5,7 +5,7 @@ const Workout = require("./models/workout");
 const path = require("path");
 
 
-
+const PORT =3000;
 const app = express();
 
 app.use(logger("dev"));
@@ -75,6 +75,6 @@ app.put("/api/workouts/:id", ({ body, params }, res) => {
   });
 });
 
-app.listen(3000, () => {
-  console.log("App running on port 3000!");
+app.listen(PORT, () => {
+  console.log(`App running on ${PORT} !`);
 });
