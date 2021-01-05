@@ -15,5 +15,14 @@
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcshanken/fitnesstracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bcshanken/fitnesstracker/issues"
+  },
+  "homepage": "https://github.com/bcshanken/fitnesstracker#readme"
 }
