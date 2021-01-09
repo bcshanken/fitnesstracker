@@ -6,7 +6,7 @@ This application is designed to be able to record workouts.
 
 The deployed application can be found at https://damp-atoll-07760.herokuapp.com/
 
-<img src="" 
+<img src="https://github.com/bcshanken/fitnesstracker/blob/main/assets/imgs/fitness.PNG?raw=true" 
 alt="database image" />
 
 ## Instillation
@@ -19,8 +19,7 @@ To use the application you can go to the deployed version provided above or depl
 
 The below video will give you a sample of what to expect. 
 
-<a href="https://www.youtube.com/watch?v=YN2rrPvLAeE&feature=youtu.be
-" target="_blank"><img src="https://github.com/bcshanken/EmployeeTracker/blob/main/Assets/imgs/videoImg.JPG?raw=true" 
+<a href="https://www.youtube.com/watch?v=oBN_pUSqyzs&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/fitnesstracker/blob/main/assets/imgs/video.PNG?raw=true" 
 alt="video image" /></a>
 
 
